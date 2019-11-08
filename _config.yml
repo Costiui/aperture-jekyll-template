@@ -2,8 +2,8 @@
 # Site
 
 title: Aperture Template
-url: "https://github.costiui.net/aperture-jekyll-template/"
-baseurl:
+url: "https://github.costiui.net/aperture-jekyll-template"
+baseurl: "https://github.costiui.net/aperture-jekyll-template"
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
